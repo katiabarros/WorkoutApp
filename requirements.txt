@@ -1,0 +1,9 @@
+chromadb==0.5.23
+fastapi==0.115.11
+langchain-chroma==0.1.4
+langchain-core==0.3.43
+langflow==1.2.0
+numpy==1.26.4
+ollama==0.4.7
+python==3.10.14
+streamlit==1.43.2
